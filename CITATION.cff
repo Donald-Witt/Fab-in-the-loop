@@ -14,15 +14,6 @@ authors:
       Quantum Matter Institute, V6T 1Z4, Vancouver, British
       Columbia, Canada
     orcid: 'https://orcid.org/0009-0002-8250-4538'
-  - given-names: Lukas
-    family-names: Chrostowski
-    affiliation: >-
-      Department of Electrical and Computer Engineering, The
-      University of British Columbia, V6T-1Z4,
-      Vancouver,British Columbia, Canada Stewart Blusson
-      Quantum Matter Institute, V6T 1Z4, Vancouver, British
-      Columbia, Canada
-    orcid: 'https://orcid.org/0000-0002-2963-9284'
   - given-names: Jeff
     family-names: Young
     affiliation: >-
@@ -32,6 +23,15 @@ authors:
       Institute, V6T 1Z4, Vancouver, British Columbia,
       Canada
     orcid: 'https://orcid.org/0000-0003-0333-1318'
+  - given-names: Lukas
+    family-names: Chrostowski
+    affiliation: >-
+      Department of Electrical and Computer Engineering, The
+      University of British Columbia, V6T-1Z4,
+      Vancouver,British Columbia, Canada Stewart Blusson
+      Quantum Matter Institute, V6T 1Z4, Vancouver, British
+      Columbia, Canada
+    orcid: 'https://orcid.org/0000-0002-2963-9284'
 identifiers:
   - type: doi
     value: 10.1063/5.0159928
