@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: Reinforcement learning for photonic component design
+message: >-
+  If you use this software, please cite our paper APL photonics paper “Reinforcement learning for photonic component design“ https://doi.org/10.1063/5.0159928
+type: software
+authors:
+  - given-names: Donald
+    family-names: Witt
+    email: donald.witt@alumni.ubc.ca
+    affiliation: >-
+      Department of Electrical and Computer Engineering, The
+      University of British Columbia, V6T-1Z4,
+      Vancouver,British Columbia, Canada Stewart Blusson
+      Quantum Matter Institute, V6T 1Z4, Vancouver, British
+      Columbia, Canada
+    orcid: 'https://orcid.org/0009-0002-8250-4538'
+  - given-names: Lukas
+    family-names: Chrostowski
+    affiliation: >-
+      Department of Electrical and Computer Engineering, The
+      University of British Columbia, V6T-1Z4,
+      Vancouver,British Columbia, Canada Stewart Blusson
+      Quantum Matter Institute, V6T 1Z4, Vancouver, British
+      Columbia, Canada
+    orcid: 'https://orcid.org/0000-0002-2963-9284'
+  - given-names: Jeff
+    family-names: Young
+    affiliation: >-
+      Department of Physics and Astronomy, The University of
+      British Columbia, V6T 1Z1, Vancouver, British
+      Columbia, Canada Stewart Blusson Quantum Matter
+      Institute, V6T 1Z4, Vancouver, British Columbia,
+      Canada
+    orcid: 'https://orcid.org/0000-0003-0333-1318'
+identifiers:
+  - type: doi
+    value: 10.1063/5.0159928
+repository-code: 'https://github.com/Donald-Witt/Fab-in-the-loop'
+url: 'https://doi.org/10.1063/5.0159928'
+abstract: "We present a new fab-in-the-loop reinforcement learning algorithm for the design of nano-photonic components that accounts for the imperfections present in nanofabrication processes. As a demonstration of the potential of this technique, we apply it to the design of photonic crystal grating couplers fabricated on an air clad 220 nm silicon on insulator single etch platform. This fab-in-the-loop algorithm improves the insertion loss from 8.8 to 3.24 dB. The widest bandwidth designs produced using our fab-in-the-loop algorithm can cover a 150 nm bandwidth with less than 10.2 dB of loss at their lowest point."
+license: GPL-3.0
